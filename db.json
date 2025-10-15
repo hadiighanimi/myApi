@@ -3,5 +3,47 @@
     { "id": 1, "url": "/assets/sliderTop/one.png" },
     { "id": 2, "url": "/assets/sliderTop/two.png" },
     { "id": 3, "url": "/assets/sliderTop/three.png" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "url": "/assets/sales/box/masajhor.png",
+      "title": "ماساژور ULTRA-MINI پاورولوژی مدل Powerology SM011",
+      "oldPrice": "3,650,000",
+      "sale": "255,000",
+      "newPrice": "3,395,000"
+    },
+    {
+      "id": 2,
+      "url": "/assets/sales/box/headset.png",
+      "title": "هندزفری بلوتوثی دورگردنی مک دودو مدل Mcdodo HP-0210",
+      "oldPrice": "2,190,000",
+      "sale": "300,000",
+      "newPrice": "1,890,000"
+    },
+    {
+      "id": 3,
+      "url": "/assets/sales/box/adaptor.png",
+      "title": "شارژر دیواری 30 واتی Zolo انکر مدل Anker A2698",
+      "oldPrice": "1,100,000",
+      "sale": "200,000",
+      "newPrice": "900,000"
+    },
+    {
+      "id": 4,
+      "url": "/assets/sales/box/powerMac.png",
+      "title": "پاوربانک 10000 میلی آمپر 22.5 واتی مک دودو مدل Mcdodo MC-4220",
+      "oldPrice": "1,597,000",
+      "sale": "200,000",
+      "newPrice": "1,397,000"
+    },
+    {
+      "id": 5,
+      "url": "/assets/sales/box/powerPower.png",
+      "title": "پاوربانک 10000 میلی آمپری 20 واتی وایرلس شارژ مگ سیف پاورولوژی مدل Powerology Ppbcha34",
+      "oldPrice": "2,175,000",
+      "sale": "200,000",
+      "newPrice": "1,975,000"
+    }
   ]
 }
