@@ -2,6 +2,6 @@
   "sliderOne": [
     { "id": 1, "url": "../../assets/sliderTop/one.png" },
     { "id": 2, "url": "../../assets/sliderTop/two.png" },
-    { "id": 3, "url": "../../assets/sliderTop/three.png" },
+    { "id": 3, "url": "../../assets/sliderTop/three.png" }
   ]
 }
