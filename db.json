@@ -45,5 +45,39 @@
       "sale": "200,000",
       "newPrice": "1,975,000"
     }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "url": "/assets/categories/adaptor.png"
+    },
+    {
+      "id": 2,
+      "url": "/assets/categories/battery.png"
+    },
+    {
+      "id": 3,
+      "url": "/assets/categories/cable.png"
+    },
+    {
+      "id": 4,
+      "url": "/assets/categories/gaming.png"
+    },
+    {
+      "id": 5,
+      "url": "/assets/categories/handsfree.png"
+    },
+    {
+      "id": 6,
+      "url": "/assets/categories/Holder.png"
+    },
+    {
+      "id": 7,
+      "url": "/assets/categories/mobadel.png"
+    },
+    {
+      "id": 8,
+      "url": "/assets/categories/powerbank.png"
+    }
   ]
 }
